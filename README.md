@@ -1,8 +1,8 @@
-## Hello humans 👋
+# Hello humans 👋
 
 ---
 
-My name is Zack Dias and I'm a web developer/software developer/student. I'm from Brazil, living in the countryside of Sao Paulo. You can also find me in... 
+### My name is Zack Dias and I'm a student/web developer/software developer. I'm from Brazil, living in the countryside of Sao Paulo.
 
 
 [![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackgrid)](https://github.com/anuraghazra/github-readme-stats)
