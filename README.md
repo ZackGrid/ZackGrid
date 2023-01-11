@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Javascript Web Development on The Odin Project and pursuing my associates degree in software development**
 - 📫 You can reach me **[here](https://www.linkedin.com/in/elias-dias-0aa35321b)**
 
-- :open_file_folder: Some other recents projects can be viewed here:
+- :open_file_folder: Some other recent projects can be viewed here:
 
 1. [calculator](https://zackgrid.github.io/calculator/)
 2. [Etch-A-Sketch](https://zackgrid.github.io/etch-a-sketch/)
