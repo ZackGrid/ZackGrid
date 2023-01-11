@@ -12,7 +12,7 @@
 
 1. [calculator](https://zackgrid.github.io/calculator/)
 2. [Etch-A-Sketch](https://zackgrid.github.io/etch-a-sketch/)
-3. [Rock-Paper-Scissors](https://zackgrid.github.io/rock-paper-scissors/)
+3. [Rock-Paper-Scissors](https://zackgrid.github.io/rock-paper-scissors/) *(In Brazilian Portuguese)
 4. [Kramerica](https://zackgrid.github.io/first-webpage/)
 
 -------------
