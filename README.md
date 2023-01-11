@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello humans 👋
+
+---
+
+My name is Zack Dias and I'm a web developer/software developer/student. I'm from Brazil, living in the countryside of Sao Paulo. You can also find me in... 
 
 <!--
 **ZackGrid/ZackGrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
