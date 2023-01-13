@@ -17,7 +17,7 @@
 
 -------------
 
-[![Zack's GitHub stats](https://github-readme-stats-three-neon-15.vercel.app/api?username=zackgrid&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zack's GitHub stats](https://github-readme-stats-three-neon-15.vercel.app/api?username=ZackGrid&theme=tokyonight&show_icons=true)](https://github.com/ZackGrid/github-readme-stats)
 
 <!--
 **ZackGrid/ZackGrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
