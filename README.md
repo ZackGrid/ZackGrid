@@ -4,16 +4,21 @@
 
 ----
 
-- 🔭 I’m currently working on **intermediate HTML & CSS projects like [this](https://zackgrid.github.io/sign-up-form/)**
+- 🔭 I’m currently working on **intermediate HTML & CSS projects like [this](https://zackgrid.github.io/admin-dashboard/)**
+
 - 🌱 I’m currently learning **Full Stack Javascript Web Development on The Odin Project and pursuing my associates degree in software development**
-- 📫 You can reach me **[here](https://www.linkedin.com/in/elias-dias-0aa35321b)**
 
-- :open_file_folder: Some other recent projects can be viewed here:
+- 📫 How you can reach me:
+1. Linkedin **[here](https://www.linkedin.com/in/elias-dias-0aa35321b)**
+2. e-mail **leautonac@gmail.com**
 
-1. [calculator](https://zackgrid.github.io/calculator/)
-2. [Etch-A-Sketch](https://zackgrid.github.io/etch-a-sketch/)
-3. [Rock-Paper-Scissors](https://zackgrid.github.io/rock-paper-scissors/) *(In Brazilian Portuguese)
-4. [Kramerica](https://zackgrid.github.io/first-webpage/)
+- :open_file_folder: Some of my recent projects:
+
+1. **[Dashboard](https://zackgrid.github.io/admin-dashboard/)**
+2. **[Sign-up form](https://zackgrid.github.io/sign-up-form/)**
+3. **[Calculator](https://zackgrid.github.io/calculator/)**
+4. **[Etch-A-Sketch](https://zackgrid.github.io/etch-a-sketch/)**
+5. **[Rock-Paper-Scissors](https://zackgrid.github.io/rock-paper-scissors/)** *(In Brazilian Portuguese)
 
 -------------
 
