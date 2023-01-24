@@ -4,16 +4,17 @@
 
 ----
 
-- 🔭 I’m currently working on **intermediate HTML & CSS projects like [this](https://zackgrid.github.io/admin-dashboard/)**
+- 🔭 I’m currently working on **Javascript projects such as [this](https://zackgrid.github.io/library-top/)**
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development on The Odin Project and pursuing my associates degree in software development**
 
 - 📫 How you can reach me:
-1. Linkedin **[here](https://www.linkedin.com/in/elias-dias-0aa35321b)**
+1. LinkedIn **[here](https://www.linkedin.com/in/elias-dias-0aa35321b)**
 2. e-mail **leautonac@gmail.com**
 
 - :open_file_folder: Some of my recent projects:
 
+1. **[Game Library](https://zackgrid.github.io/library-top/)**
 1. **[Dashboard](https://zackgrid.github.io/admin-dashboard/)**
 2. **[Sign-up form](https://zackgrid.github.io/sign-up-form/)**
 3. **[Calculator](https://zackgrid.github.io/calculator/)**
