@@ -4,7 +4,7 @@
 
 ----
 
-- 🔭 I’m currently working on **Javascript projects such as [this](https://zackgrid.github.io/library-top/)**
+- 🔭 I’m currently studying and working on **Javascript projects such as [this](https://zackgrid.github.io/tic-tac-toe/)**
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development on The Odin Project and pursuing my associates degree in software development**
 
@@ -14,6 +14,7 @@
 
 - :open_file_folder: Some of my recent projects:
 
+1. **[Tic Tac Toe](https://zackgrid.github.io/tic-tac-toe/)** *(With AI)
 1. **[Game Library](https://zackgrid.github.io/library-top/)**
 1. **[Dashboard](https://zackgrid.github.io/admin-dashboard/)**
 2. **[Sign-up form](https://zackgrid.github.io/sign-up-form/)**
