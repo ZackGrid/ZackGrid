@@ -14,6 +14,7 @@
 
 - :open_file_folder: Some of my recent projects:
 
+1. **[Cosmo's Pizza](https://zackgrid.github.io/restaurant-page-webpack/)**
 1. **[Tic Tac Toe](https://zackgrid.github.io/tic-tac-toe/)** *(With AI)
 1. **[Game Library](https://zackgrid.github.io/library-top/)**
 1. **[Dashboard](https://zackgrid.github.io/admin-dashboard/)**
